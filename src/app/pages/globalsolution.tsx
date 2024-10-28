@@ -50,5 +50,5 @@ export default function GlobalSolutionPage() {
         ))}
       </div>
     </div>
-  )
+  );
 }
