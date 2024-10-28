@@ -34,5 +34,5 @@ export default function ChallengeSprintPage() {
         ))}
       </div>
     </div>
-  );
+  )
 }
