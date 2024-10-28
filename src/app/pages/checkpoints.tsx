@@ -33,5 +33,5 @@ export default function CheckPointsPage() {
         <p>Nenhum checkpoint encontrado.</p>
       )}
     </div>
-  )
+  );
 }
